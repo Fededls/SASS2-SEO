@@ -1,0 +1,6 @@
+Version 3.0
+
+- Se agregó las siguientes keywords en todas las paginas: "Electrodomesticos, compras, electrico, hogar, ofertas, imagen, sonido, videojuegos".
+- Modificación del titulo "ElectroShop" en todas las paginas del sitio
+- Se agregó descrpición del sitio en todas las paginas.
+  
